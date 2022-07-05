@@ -1,0 +1,16 @@
+##Comandos básicos para um bom desempenho no terminal:
+
+- echo - printa de volta no terminal uma frase que você passa
+- mkdir - cria uma pasta dentro do diretório
+- cls - Limpa a tela
+- cd - possibilita a navegação pelas pastas
+- dir - uma lista de diretórios, todas as pastas do local aonde estamos
+- >  redirecionador de fluxo
+- del - deleta todo o conteúdo da pasta selecionada
+- rmdir - deleta a pasta selecionada
+
+##SHA1 - Secure Hash Algorithm
+
+é um algoritmo de encriptação, a encriptação gera um conjunto de caracteres de 40 dígitos
+
+
